@@ -7,5 +7,5 @@ Indexing whole Wikipedia using ElasticSearch in &lt; 50 lines of code
 3. elasticsearch package
 
 ## Command to run
-> python indexing.py <PATH_TO_WIKIPEDIA_DUMP>
+> python indexing.py PATH_TO_WIKIPEDIA_DUMP
 
